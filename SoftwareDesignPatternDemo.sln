@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex11_SingleResponsibilityPr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex12_SingleResponsibilityPrinciple", "SOLID\Ex12_SingleResponsibilityPrinciple\Ex12_SingleResponsibilityPrinciple.csproj", "{CF4B2CAC-810B-48CE-BD21-7EBDB35DB6DF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_SingleResponsibilityPrinciple", "01_SingleResponsibilityPrinciple", "{FF7B2180-EB18-4BF5-8DD9-3549B38C899C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,8 +30,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{22D441AA-6443-4544-B936-7E0585D05024} = {13A7FFDF-CDEC-4088-968F-258E2B43BF49}
-		{CF4B2CAC-810B-48CE-BD21-7EBDB35DB6DF} = {13A7FFDF-CDEC-4088-968F-258E2B43BF49}
+		{22D441AA-6443-4544-B936-7E0585D05024} = {FF7B2180-EB18-4BF5-8DD9-3549B38C899C}
+		{CF4B2CAC-810B-48CE-BD21-7EBDB35DB6DF} = {FF7B2180-EB18-4BF5-8DD9-3549B38C899C}
+		{FF7B2180-EB18-4BF5-8DD9-3549B38C899C} = {13A7FFDF-CDEC-4088-968F-258E2B43BF49}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F6F0B155-903E-4F3F-9A20-C9B6EB62ED9F}
