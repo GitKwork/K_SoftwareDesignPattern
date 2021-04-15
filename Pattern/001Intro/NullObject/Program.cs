@@ -1,27 +1,14 @@
-﻿using NullObject.Infrastructure;
+﻿using System;
+using NullObject.Infrastructure;
 using NullObject.Products;
-using System;
 
 namespace NullObject
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            var products = new string[]
-            {
-                "молоко",
-                "печеньки",
-                "сливки",
-                "содовая",
-                "кофе",
-                "латте",
-                "мильфей",
-                "какао"
-                };
-
-
-            foreach (string productName in products)
+            foreach (string productName in ListProduct.Products)
             {
                 Product product = Shop.GetProduct(productName);
                 Console.WriteLine(product.KcalOfEnergy);

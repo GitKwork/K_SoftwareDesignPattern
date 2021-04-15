@@ -2,7 +2,7 @@
 
 namespace NullObject.Products
 {
-    class Coffe : Product
+    public class Coffe : Product
     {
         public Coffe()
            : base(energy: 78, "Little's Franch Vanilla")
