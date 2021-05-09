@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex41_InterfaceSegregationPrinciple
+namespace RecordPrototype
 {
     class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace Ex41_InterfaceSegregationPrinciple.Lada
+﻿namespace RecordPrototype.Lada
 {
     public abstract class Vesta : Lada
     {

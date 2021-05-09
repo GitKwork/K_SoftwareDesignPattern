@@ -1,6 +1,6 @@
-﻿using Ex41_InterfaceSegregationPrinciple.Audi.Package;
+﻿using RecordPrototype.Audi.Package;
 
-namespace Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines
+namespace RecordPrototype.Audi.Package.Lines
 {
     interface IAudiExclusive : ISportLine, IDesignLine, IAmbientLighting
     {

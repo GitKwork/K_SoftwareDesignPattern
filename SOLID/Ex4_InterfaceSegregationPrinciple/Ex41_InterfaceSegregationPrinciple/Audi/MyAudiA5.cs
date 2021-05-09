@@ -1,7 +1,7 @@
-﻿using Ex41_InterfaceSegregationPrinciple.Audi.Package;
-using Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines;
+﻿using RecordPrototype.Audi.Package;
+using RecordPrototype.Audi.Package.Lines;
 
-namespace Ex41_InterfaceSegregationPrinciple.Audi
+namespace RecordPrototype.Audi
 {
     //public class MyAudiA5 : AudiA5 , IAmbientLighting, IHeadlightsMatrixLed, ISLine
     //{

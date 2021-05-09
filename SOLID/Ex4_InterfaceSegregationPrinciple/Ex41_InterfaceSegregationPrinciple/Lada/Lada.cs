@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ex41_InterfaceSegregationPrinciple.Lada
+namespace RecordPrototype.Lada
 {
 
     public abstract class Lada : Car

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ex41_InterfaceSegregationPrinciple
+namespace RecordPrototype
 {
     public abstract class Car
     {

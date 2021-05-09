@@ -1,4 +1,4 @@
-﻿namespace Ex41_InterfaceSegregationPrinciple.Audi
+﻿namespace RecordPrototype.Audi
 {
 
     public abstract class AudiA5 : Audi

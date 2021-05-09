@@ -1,4 +1,4 @@
-﻿namespace Ex41_InterfaceSegregationPrinciple
+﻿namespace RecordPrototype
 {
     // https://www.lada.ru/en/cars/vesta/sedan/tth.html
 

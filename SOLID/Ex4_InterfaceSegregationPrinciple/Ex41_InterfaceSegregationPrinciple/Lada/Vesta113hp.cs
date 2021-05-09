@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex41_InterfaceSegregationPrinciple.Lada
+namespace RecordPrototype.Lada
 {
     public class Vesta113hp : Vesta, IVesta
     {
