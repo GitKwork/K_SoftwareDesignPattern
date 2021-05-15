@@ -10,12 +10,13 @@ namespace TruePrototype
         {
             using (var stream = new MemoryStream())
             {
+               
                 XmlSerializer xmlFormat = new XmlSerializer(obj.GetType());
                 xmlFormat.Serialize(stream, obj);
 
                 stream.Seek(0, SeekOrigin.Begin);
                 return (Address)(xmlFormat.Deserialize(stream));
-            }             
+               }             
         }
 
         static public T DeepCloneable<T>(this T obj) =>
