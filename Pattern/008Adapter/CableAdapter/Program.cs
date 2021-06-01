@@ -8,6 +8,8 @@ namespace CableAdapter
     {
         static void Main(string[] args)
         {
+
+            /// Видео https://youtu.be/6mJXV9m_cmQ
             Computer iMac = new Computer();
 
             SoundCard apollo = new SoundCard();
