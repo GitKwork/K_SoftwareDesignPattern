@@ -11,6 +11,8 @@ namespace AvatarProxy
         static void Main()
         {
 
+            // Видео https://youtu.be/K8JiU2eKb50
+
             // AvatarV1
             Human realHuman = new Human(); WriteLine(realHuman.Age);
             
