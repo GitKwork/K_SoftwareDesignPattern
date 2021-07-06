@@ -5,14 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Units\Nodes\Новая папка\**" />
-    <EmbeddedResource Remove="Units\Nodes\Новая папка\**" />
-    <None Remove="Units\Nodes\Новая папка\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Ookii.Dialogs" Version="1.2.0" />
-  </ItemGroup>
-
 </Project>

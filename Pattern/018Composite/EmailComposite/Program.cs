@@ -9,6 +9,8 @@ namespace EmailComposite
     {
         static void Main(string[] args)
         {
+            // Видео https://youtu.be/h2AvQ-Epd1I
+
             EMail c = new EMail() { Name = "Христиан Иоганн Генрих Гейне" }; 
             c.Send();// Отправлено "Христиан Иоганн Генрих Гейне"
             EMail r = new EMail() { Name = "Рене Декарт" }; 
