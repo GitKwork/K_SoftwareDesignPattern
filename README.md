@@ -23,8 +23,8 @@ Fluent interface на [примере методов](https://www.youtube.com/wa
 Дополнение: Lazy initialization, Double checked locking, Object pool  
 
 ### Структурные шаблоны 
-[Decorator pattern](https://youtu.be/BLSV3B7sp8M) (паттерн декоратор)  
 * [Adapter pattern](https://youtu.be/6mJXV9m_cmQ) (паттерн адаптер паттерн)  
+[Decorator pattern](https://youtu.be/BLSV3B7sp8M) (паттерн декоратор)  
 * [Facade pattern](https://youtu.be/SusH5uiWvxw) (паттерн фасад паттерн)  
 * [Proxy pattern](https://youtu.be/K8JiU2eKb50) (паттерн прокси)  
 [Composite pattern](https://youtu.be/h2AvQ-Epd1I) (паттерн компоновщик)  
