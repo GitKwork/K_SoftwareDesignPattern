@@ -298,13 +298,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordBuilder", "Pattern\022I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionAnalyzer", "Pattern\022Interpreter\ExpressionAnalyzer\ExpressionAnalyzer.csproj", "{791E8D10-B393-4770-9FE0-B89551BE0E9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalExample", "Pattern\022Interpreter\TerminalExample\TerminalExample.csproj", "{BB7EEDD9-6125-4AD7-A7FA-E6164EE1EB55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerminalExample", "Pattern\022Interpreter\TerminalExample\TerminalExample.csproj", "{BB7EEDD9-6125-4AD7-A7FA-E6164EE1EB55}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Outro", "Outro", "{83AF1873-8D54-4BB5-917C-3882ED278EC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDE", "Pattern\022Interpreter\Outro\IDE\IDE.csproj", "{6EDC225D-F97D-40AB-A2C1-12928B55ED43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDE", "Pattern\022Interpreter\Outro\IDE\IDE.csproj", "{6EDC225D-F97D-40AB-A2C1-12928B55ED43}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguageInterpreterLibrary", "Pattern\022Interpreter\Outro\LanguageInterpreterLibrary\LanguageInterpreterLibrary.csproj", "{6D22F3A6-6A9A-4869-8B09-E351C7813BC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2448301-5C17-4D9A-BDA7-E247C858B4E7}"
+	ProjectSection(SolutionItems) = preProject
+		URL.txt = URL.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
