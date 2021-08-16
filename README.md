@@ -3,7 +3,7 @@
 Все видео [#profcsharp](https://www.youtube.com/hashtag/profcsharp) на [youtube](https://www.youtube.com/hashtag/profcsharp)  
 [Telegram канал](http://ksergey.ru/profcsharp/)
 
-Кратко обо всех паттернах [смотреть](https://youtu.be/VCNcgR0PHpU)
+Кратко обо всех паттернах [смотреть](https://youtu.be/VCNcgR0PHpU)  
 Сложение двух чисел [смотреть](https://youtu.be/07W9SLmoV-Q)
 
 Видео, на которые стоит обратить внимание перед изучением паттернов  
