@@ -13,13 +13,13 @@ namespace SimpleIterator
             Reset();
         }
 
-        public T Current => storage[index--];
+        public T Current => storage[index];
 
         object IEnumerator.Current => Current;
-        //public bool MoveNext() => index < storage.Length;
-        public bool MoveNext() => index >= 0;
-        //public void Reset() => index = 0;
-        public void Reset() => index = storage.Length - 1;
+        //public bool MoveNext() => ++index < storage.Length;
+        public bool MoveNext() => --index >= 0;
+        //public void Reset() => index = -1;
+        public void Reset() => index = storage.Length;
         public void Dispose() { }
     }
 }
